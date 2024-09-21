@@ -1,4 +1,4 @@
-# Spending Insights – Predicting Customer Purchases 💳📊
+# Spending Insights:Predicting Customer Purchases-A Machine Learning Case Study 💳📊
 
 ### Table of Contents
 1. [Introduction](#introduction) 📘
